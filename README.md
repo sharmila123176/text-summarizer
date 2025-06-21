@@ -28,6 +28,13 @@ Transformer-based models (e.g., BERT, GPT) which can understand context and gene
 AI and NLP: Text summarizers rely heavily on Natural Language Processing (NLP) techniques to understand, process, and manipulate text.
 Applications: Summarizers are widely used in news aggregation, document summarization, content curation, and research paper summarization.
 Advancements: Deep learning and transformer models like GPT-3 and BERT have significantly advanced summarization tasks by providing more contextually accurate and fluent summaries.
+
+# Technologies Used
+-> Python, NLTK, spaC
+-> Transformers (HuggingFace) – BERT, GPT, T5
+-> Flask/Streamlit – For UI (if needed)
+-> Scikit-learn, Gensim, NetworkX – For extractive methods
+
 # output
 ![Screenshot (19)](https://github.com/user-attachments/assets/d6d8cee6-81d5-49a1-b422-297691f654b8)
 
